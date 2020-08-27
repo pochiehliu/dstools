@@ -1,2 +1,2 @@
 # dstools
-#### A toolbox contains commonly used for ML practice
+#### A toolbox contains commonly used scripts for ML in practice
