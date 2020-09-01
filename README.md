@@ -7,4 +7,7 @@
  - [x] feature stats
  - [x] regression function
  - [ ] classification function
+ - [ ] combine supvervised functions
  - [ ] claim/transaction level data feature engineering
+ - [ ] tablular data feature engineering
+ - [ ] clustering function
